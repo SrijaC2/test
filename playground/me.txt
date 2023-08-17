@@ -1,0 +1,5 @@
+{{#user}
+Name: Chanda Srija
+Skills: HTML, CSS, JS, Node.js, Express.js, React.js, Python, AI & ML, C, Java, R
+Email: srijachanda06@gmail.com
+{{/user}}
